@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Halcyon 🦊
+- 👀 I’m interested in gaming and creating digital art/3D art
+- 🌱 I’m currently learning JS, C#, and python
