@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Halcyon 🦊
-- 👀 I’m interested in gaming and creating digital art/3D art
-- 🌱 I’m currently learning JS, C#, and python ^w^
+Hey there, I'm Halcyon.
+
+Im an aspiring programmer, Arch Linux fanatic, full time studen-gamer, scifi-fan, and an 3D artist. But most importantly... I don't go outisde...
