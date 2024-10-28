@@ -9,5 +9,3 @@
 - 🌱 Aspiring solo dev
 - 📚 Full Time Student
 - 💀 "I use arch BTW"
-
-  
