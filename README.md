@@ -5,7 +5,9 @@
   </a>
 </p>
 
+
 ---
+- 💻 Python, JavaScript, HTML, CSS, JAVA, Bash,
 - 🌱 Aspiring solo dev
 - 📚 Full Time Student
 - 💀 "I use arch BTW"
